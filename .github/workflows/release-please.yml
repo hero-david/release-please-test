@@ -5,11 +5,20 @@ on:
 
 name: release-please
 jobs:
-  release-please:
-    name: "Release"
+  release-please-helm:
+    name: "Release Helm"
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
           command: manifest
 
+  release-please-ember:
+    name: "Release Ember"
+    runs-on: ubuntu-latest
+    steps:
+      - uses: google-github-actions/release-please-action@v3
+        with:
+          release-name: app
+          release-type: node
+          path: ember-app
