@@ -10,5 +10,6 @@
         "charts/example": {
             "package-name": "example"
         }
-    }
+    },
+    "charts/test": "2.2.0"
 }

@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/hero-david/release-please-test/compare/v2.1.0...v2.2.0) (2022-12-13)
+
+
+### Features
+
+* remove all example.yaml files ([2a90c62](https://github.com/hero-david/release-please-test/commit/2a90c6210c47d90402a2c64a863c3979754c88bf))
+
 ## [2.1.0](https://github.com/hero-david/release-please-test/compare/v2.0.0...v2.1.0) (2022-12-13)
 
 
