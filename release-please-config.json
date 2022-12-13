@@ -1,0 +1,14 @@
+{
+    "release-type": "helm",
+    "packages": {
+        "charts/demo": {
+            "package-name": "demo"
+        },
+        "charts/test": {
+            "package-name": "test"
+        },
+        "charts/example": {
+            "package-name": "example"
+        }
+    }
+}
