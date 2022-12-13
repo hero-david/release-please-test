@@ -11,3 +11,4 @@ jobs:
         with:
           release-type: helm
           package-name: test
+          version-file: ./charts/test/Chart.yaml
