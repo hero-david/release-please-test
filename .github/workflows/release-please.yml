@@ -19,6 +19,6 @@ jobs:
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          release-name: app
+          package-name: ember-app
           release-type: node
           path: ember-app
