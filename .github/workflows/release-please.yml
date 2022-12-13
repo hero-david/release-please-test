@@ -2,14 +2,14 @@ on:
   push:
     branches:
       - main
+
 name: release-please
 jobs:
   release-please:
+    name: "Release"
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v3
         with:
-          release-type: helm
-          package-name: test
-          path: charts/test
-          
+          command: manifest
+
