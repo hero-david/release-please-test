@@ -10,5 +10,4 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: helm
-          package-name: test
-          version-file: ./charts/test/Chart.yaml
+          path: charts/test
