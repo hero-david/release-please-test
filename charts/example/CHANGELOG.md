@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/hero-david/release-please-test/compare/example-v1.0.0...example-v1.1.0) (2022-12-13)
+
+
+### Features
+
+* **example:** add example1.yaml ([bfff6dc](https://github.com/hero-david/release-please-test/commit/bfff6dcb5588ea075b6e8618ba28929bb458d819))
+
 ## 1.0.0 (2022-12-13)
 
 
