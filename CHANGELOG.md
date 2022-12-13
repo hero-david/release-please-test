@@ -5,11 +5,11 @@
 
 ### ⚠ BREAKING CHANGES
 
-* this is a breaking bl;ank file
+* this is a breaking blank file
 
 ### Features
 
-* this is a breaking bl;ank file ([fdec397](https://github.com/hero-david/release-please-test/commit/fdec39743424e68bffe52e00f6813421f9e0206a))
+* this is a breaking blank file ([fdec397](https://github.com/hero-david/release-please-test/commit/fdec39743424e68bffe52e00f6813421f9e0206a))
 
 ## 1.0.0 (2022-12-13)
 
