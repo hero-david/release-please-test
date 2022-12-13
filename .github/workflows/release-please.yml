@@ -11,4 +11,5 @@ jobs:
         with:
           release-type: helm
           package-name: test
+          path: charts
           
