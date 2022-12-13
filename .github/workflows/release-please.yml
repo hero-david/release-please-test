@@ -21,4 +21,4 @@ jobs:
         with:
           package-name: ember-app
           release-type: node
-          #path: ember-app
+          path: ember-app
